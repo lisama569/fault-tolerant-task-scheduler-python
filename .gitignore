@@ -7,3 +7,8 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# 本地运行产物
+.scheduler_local.db*
+.retry-*
+*.log
